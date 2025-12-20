@@ -169,6 +169,16 @@
             require-prior-idle-ms = <125>;
         };
 
+        OneShotShiftLeft {
+            bindings = <&sk LEFT_SHIFT>;
+            key-positions = <1 2>;
+        };
+
+        OneShotShiftRight {
+            bindings = <&sk RIGHT_SHIFT>;
+            key-positions = <8 7>;
+        };
+
         // Combos pour lettres spécifiques du hummingbird
         // Conserve les BestB et BestDot du cradio
     };
