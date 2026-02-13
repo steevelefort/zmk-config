@@ -249,10 +249,10 @@
         nav_layer {
             display-name = "Nav";
             bindings = <
-&vim_increase_y  &kp RA(X)        &kp Z              &kp RA(C)              &kp LC(T)    &kp HOME  &kp PAGE_DOWN  &kp PG_UP     &kp END    &kp PRINTSCREEN
-&vim_reduce_x    &vim_increase_x  &hml LCTRL ESCAPE  &hml LEFT_SHIFT LC(B)  &kp RA(T)    &kp LEFT  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &kp CAPS
-&trans           &vim_decrease_y  &trans             &kp RA(SEMICOLON)      &trans       &trans    &kp RA(W)      &kp RA(E)     &kp RA(J)  &trans
-                                                     &trans                 &trans       &trans    &lt 2 DELETE
+&trans  &trans  &trans             &trans  &trans    &kp HOME  &kp PAGE_DOWN  &kp PG_UP     &kp END    &kp PRINTSCREEN
+&trans  &trans  &hml LCTRL ESCAPE  &trans  &trans    &kp LEFT  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &kp CAPS
+&trans  &trans  &trans             &trans  &trans    &trans    &trans         &trans        &trans     &trans
+                                   &trans  &trans    &trans    &lt 2 DELETE
             >;
         };
 
