@@ -144,8 +144,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-hdI8pX"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-hdI8pX"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S99Hvr"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S99Hvr"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -155,11 +155,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-hdI8pX'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S99Hvr'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_d7b66
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -o CMakeFiles/cmTC_d7b66.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-hdI8pX/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_d7b66.dir/src.c.obj -o cmTC_d7b66   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_fb1a6
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -o CMakeFiles/cmTC_fb1a6.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S99Hvr/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_fb1a6.dir/src.c.obj -o cmTC_fb1a6   && :
         
       exitCode: 0
   -
@@ -179,8 +179,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HG2kIY"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HG2kIY"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-zGa21Y"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-zGa21Y"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -190,11 +190,11 @@ events:
       variable: "check_Wall_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HG2kIY'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-zGa21Y'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_e3af6
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wall_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wall -o CMakeFiles/cmTC_e3af6.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HG2kIY/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_e3af6.dir/src.c.obj -o cmTC_e3af6   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_1a49e
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wall_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wall -o CMakeFiles/cmTC_1a49e.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-zGa21Y/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_1a49e.dir/src.c.obj -o cmTC_1a49e   && :
         
       exitCode: 0
   -
@@ -214,8 +214,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-h7yTzU"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-h7yTzU"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9K2MD6"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9K2MD6"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -225,11 +225,11 @@ events:
       variable: "check_Wformat__Wformat_security_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-h7yTzU'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9K2MD6'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_af023
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wformat__Wformat_security_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wformat -Wformat-security -o CMakeFiles/cmTC_af023.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-h7yTzU/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_af023.dir/src.c.obj -o cmTC_af023   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_3e2ea
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wformat__Wformat_security_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wformat -Wformat-security -o CMakeFiles/cmTC_3e2ea.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9K2MD6/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_3e2ea.dir/src.c.obj -o cmTC_3e2ea   && :
         
       exitCode: 0
   -
@@ -249,8 +249,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nmn4St"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nmn4St"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-plLkuM"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-plLkuM"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -260,11 +260,11 @@ events:
       variable: "check_Wformat__Wformat_zero_length_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nmn4St'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-plLkuM'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_11661
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wformat__Wformat_zero_length_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wformat -Wformat-zero-length -o CMakeFiles/cmTC_11661.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nmn4St/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_11661.dir/src.c.obj -o cmTC_11661   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_a4b83
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wformat__Wformat_zero_length_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wformat -Wformat-zero-length -o CMakeFiles/cmTC_a4b83.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-plLkuM/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_a4b83.dir/src.c.obj -o cmTC_a4b83   && :
         
       exitCode: 0
   -
@@ -284,8 +284,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-llJKer"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-llJKer"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6SausD"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6SausD"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -295,11 +295,11 @@ events:
       variable: "check_Wdouble_promotion_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-llJKer'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6SausD'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c5339
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wdouble_promotion_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wdouble-promotion -o CMakeFiles/cmTC_c5339.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-llJKer/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c5339.dir/src.c.obj -o cmTC_c5339   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_14b24
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wdouble_promotion_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wdouble-promotion -o CMakeFiles/cmTC_14b24.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6SausD/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_14b24.dir/src.c.obj -o cmTC_14b24   && :
         
       exitCode: 0
   -
@@ -319,8 +319,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Xdlpoz"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Xdlpoz"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NsX1uu"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NsX1uu"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -330,11 +330,11 @@ events:
       variable: "check_Wpointer_sign_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Xdlpoz'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NsX1uu'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_d0f25
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wpointer_sign_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wpointer-sign -o CMakeFiles/cmTC_d0f25.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Xdlpoz/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_d0f25.dir/src.c.obj -o cmTC_d0f25   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_eaec6
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wpointer_sign_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wpointer-sign -o CMakeFiles/cmTC_eaec6.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NsX1uu/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_eaec6.dir/src.c.obj -o cmTC_eaec6   && :
         
       exitCode: 0
   -
@@ -354,8 +354,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-by9dMJ"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-by9dMJ"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z0C25V"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z0C25V"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -365,11 +365,11 @@ events:
       variable: "check_Wpointer_arith_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-by9dMJ'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z0C25V'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_0bfcd
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wpointer_arith_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wpointer-arith -o CMakeFiles/cmTC_0bfcd.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-by9dMJ/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_0bfcd.dir/src.c.obj -o cmTC_0bfcd   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_060d2
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wpointer_arith_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wpointer-arith -o CMakeFiles/cmTC_060d2.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z0C25V/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_060d2.dir/src.c.obj -o cmTC_060d2   && :
         
       exitCode: 0
   -
@@ -389,8 +389,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ZDN91X"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ZDN91X"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Chx6nI"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Chx6nI"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -400,11 +400,11 @@ events:
       variable: "check_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ZDN91X'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Chx6nI'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_d55c5
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wexpansion-to-defined -o CMakeFiles/cmTC_d55c5.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ZDN91X/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_d55c5.dir/src.c.obj -o cmTC_d55c5   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_f66ca
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wexpansion-to-defined -o CMakeFiles/cmTC_f66ca.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Chx6nI/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_f66ca.dir/src.c.obj -o cmTC_f66ca   && :
         
       exitCode: 0
   -
@@ -424,8 +424,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z5cJrC"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z5cJrC"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-igKYX6"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-igKYX6"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -435,11 +435,11 @@ events:
       variable: "check_Wlogical_op_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z5cJrC'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-igKYX6'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c17bc
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wlogical_op_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wlogical-op -o CMakeFiles/cmTC_c17bc.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-z5cJrC/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c17bc.dir/src.c.obj -o cmTC_c17bc   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_5610c
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wlogical_op_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wlogical-op -o CMakeFiles/cmTC_5610c.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-igKYX6/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_5610c.dir/src.c.obj -o cmTC_5610c   && :
         
       exitCode: 0
   -
@@ -459,8 +459,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-p0YYfu"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-p0YYfu"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-SPpB57"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-SPpB57"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -470,11 +470,11 @@ events:
       variable: "check_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-p0YYfu'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-SPpB57'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c4abe
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wmissing-field-initializers -o CMakeFiles/cmTC_c4abe.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-p0YYfu/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c4abe.dir/src.c.obj -o cmTC_c4abe   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_3035d
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wmissing-field-initializers -o CMakeFiles/cmTC_3035d.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-SPpB57/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_3035d.dir/src.c.obj -o cmTC_3035d   && :
         
       exitCode: 0
   -
@@ -494,8 +494,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GNVKms"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GNVKms"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-KTED58"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-KTED58"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -505,11 +505,11 @@ events:
       variable: "check_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GNVKms'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-KTED58'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_b2789
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wpacked-bitfield-compat -o CMakeFiles/cmTC_b2789.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GNVKms/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_b2789.dir/src.c.obj -o cmTC_b2789   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_0a261
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wpacked-bitfield-compat -o CMakeFiles/cmTC_0a261.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-KTED58/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_0a261.dir/src.c.obj -o cmTC_0a261   && :
         
       exitCode: 0
   -
@@ -529,8 +529,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-n744LX"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-n744LX"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nid1bQ"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nid1bQ"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -540,11 +540,11 @@ events:
       variable: "check_Wvla_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-n744LX'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nid1bQ'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_2e469
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wvla_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wvla -o CMakeFiles/cmTC_2e469.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-n744LX/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_2e469.dir/src.c.obj -o cmTC_2e469   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_f4a7a
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wvla_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wvla -o CMakeFiles/cmTC_f4a7a.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-nid1bQ/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_f4a7a.dir/src.c.obj -o cmTC_f4a7a   && :
         
       exitCode: 0
   -
@@ -564,8 +564,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6ORuQr"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6ORuQr"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o4Gd7h"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o4Gd7h"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -575,11 +575,11 @@ events:
       variable: "check_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6ORuQr'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o4Gd7h'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_d1ae2
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wunused-but-set-variable -o CMakeFiles/cmTC_d1ae2.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6ORuQr/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_d1ae2.dir/src.c.obj -o cmTC_d1ae2   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_30ce1
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wunused-but-set-variable -o CMakeFiles/cmTC_30ce1.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o4Gd7h/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_30ce1.dir/src.c.obj -o cmTC_30ce1   && :
         
       exitCode: 0
   -
@@ -599,8 +599,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-14TDiu"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-14TDiu"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NRQTDO"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NRQTDO"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -610,11 +610,11 @@ events:
       variable: "check_Werror_implicit_int_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-14TDiu'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NRQTDO'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_e98f3
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Werror_implicit_int_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Werror=implicit-int -o CMakeFiles/cmTC_e98f3.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-14TDiu/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_e98f3.dir/src.c.obj -o cmTC_e98f3   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_374ff
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Werror_implicit_int_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Werror=implicit-int -o CMakeFiles/cmTC_374ff.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NRQTDO/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_374ff.dir/src.c.obj -o cmTC_374ff   && :
         
       exitCode: 0
   -
@@ -634,8 +634,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-V5e4K5"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-V5e4K5"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-J5b4Rz"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-J5b4Rz"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -645,11 +645,11 @@ events:
       variable: "check_fno_printf_return_value_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-V5e4K5'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-J5b4Rz'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c3b78
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_printf_return_value_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-printf-return-value -o CMakeFiles/cmTC_c3b78.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-V5e4K5/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c3b78.dir/src.c.obj -o cmTC_c3b78   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_7e15b
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_printf_return_value_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-printf-return-value -o CMakeFiles/cmTC_7e15b.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-J5b4Rz/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_7e15b.dir/src.c.obj -o cmTC_7e15b   && :
         
       exitCode: 0
   -
@@ -669,8 +669,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-4vKRJ4"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-4vKRJ4"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-CrDDvm"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-CrDDvm"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -680,11 +680,11 @@ events:
       variable: "check_mstack_protector_guard_global_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-4vKRJ4'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-CrDDvm'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_cc764
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_mstack_protector_guard_global_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -mstack-protector-guard=global -o CMakeFiles/cmTC_cc764.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-4vKRJ4/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_cc764.dir/src.c.obj -o cmTC_cc764   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_558cb
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_mstack_protector_guard_global_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -mstack-protector-guard=global -o CMakeFiles/cmTC_558cb.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-CrDDvm/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_558cb.dir/src.c.obj -o cmTC_558cb   && :
         
       exitCode: 0
   -
@@ -704,8 +704,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Q5EMvA"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Q5EMvA"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VK6IDb"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VK6IDb"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -715,11 +715,11 @@ events:
       variable: "check_fno_freestanding_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Q5EMvA'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VK6IDb'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_5485d
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_freestanding_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-freestanding -o CMakeFiles/cmTC_5485d.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Q5EMvA/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_5485d.dir/src.c.obj -o cmTC_5485d   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_278e3
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_freestanding_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-freestanding -o CMakeFiles/cmTC_278e3.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VK6IDb/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_278e3.dir/src.c.obj -o cmTC_278e3   && :
         
       exitCode: 0
   -
@@ -739,8 +739,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0syfeT"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0syfeT"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-syM2ns"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-syM2ns"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -750,11 +750,11 @@ events:
       variable: "check_ffreestanding_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0syfeT'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-syM2ns'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_84f1c
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_ffreestanding_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -ffreestanding -o CMakeFiles/cmTC_84f1c.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0syfeT/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_84f1c.dir/src.c.obj -o cmTC_84f1c   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_4fa7f
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_ffreestanding_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -ffreestanding -o CMakeFiles/cmTC_4fa7f.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-syM2ns/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_4fa7f.dir/src.c.obj -o cmTC_4fa7f   && :
         
       exitCode: 0
   -
@@ -774,8 +774,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HC9RSA"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HC9RSA"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-dAPtrJ"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-dAPtrJ"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -785,11 +785,11 @@ events:
       variable: "check_gdwarf_4_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HC9RSA'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-dAPtrJ'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_024be
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_gdwarf_4_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -gdwarf-4 -o CMakeFiles/cmTC_024be.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HC9RSA/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_024be.dir/src.c.obj -o cmTC_024be   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_f8fe0
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_gdwarf_4_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -gdwarf-4 -o CMakeFiles/cmTC_f8fe0.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-dAPtrJ/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_f8fe0.dir/src.c.obj -o cmTC_f8fe0   && :
         
       exitCode: 0
   -
@@ -809,8 +809,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S9AFS4"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S9AFS4"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Av7WJA"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Av7WJA"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -820,11 +820,11 @@ events:
       variable: "check_fdiagnostics_color_always_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S9AFS4'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Av7WJA'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_e3d1a
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fdiagnostics_color_always_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fdiagnostics-color=always -o CMakeFiles/cmTC_e3d1a.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-S9AFS4/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_e3d1a.dir/src.c.obj -o cmTC_e3d1a   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_c4b85
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fdiagnostics_color_always_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fdiagnostics-color=always -o CMakeFiles/cmTC_c4b85.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Av7WJA/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c4b85.dir/src.c.obj -o cmTC_c4b85   && :
         
       exitCode: 0
   -
@@ -844,8 +844,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-tihYXs"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-tihYXs"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AMEac2"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AMEac2"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -855,11 +855,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___gc_sections"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-tihYXs'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AMEac2'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_94b69
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___gc_sections  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--gc-sections -o CMakeFiles/cmTC_94b69.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-tihYXs/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--gc-sections  CMakeFiles/cmTC_94b69.dir/src.c.obj -o cmTC_94b69   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_28d6c
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___gc_sections  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--gc-sections -o CMakeFiles/cmTC_28d6c.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AMEac2/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--gc-sections  CMakeFiles/cmTC_28d6c.dir/src.c.obj -o cmTC_28d6c   && :
         
       exitCode: 0
   -
@@ -879,8 +879,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-g03r4w"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-g03r4w"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-YLPY7w"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-YLPY7w"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -890,11 +890,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___build_id_none"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-g03r4w'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-YLPY7w'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_07e6d
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___build_id_none  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--build-id=none -o CMakeFiles/cmTC_07e6d.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-g03r4w/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--build-id=none  CMakeFiles/cmTC_07e6d.dir/src.c.obj -o cmTC_07e6d   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_64267
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___build_id_none  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--build-id=none -o CMakeFiles/cmTC_64267.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-YLPY7w/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--build-id=none  CMakeFiles/cmTC_64267.dir/src.c.obj -o cmTC_64267   && :
         
       exitCode: 0
   -
@@ -914,8 +914,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HTM4JM"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HTM4JM"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-1DBnCi"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-1DBnCi"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -925,11 +925,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__nostdlib"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HTM4JM'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-1DBnCi'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c8cd2
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__nostdlib  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -nostdlib -o CMakeFiles/cmTC_c8cd2.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-HTM4JM/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -nostdlib  CMakeFiles/cmTC_c8cd2.dir/src.c.obj -o cmTC_c8cd2   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_46619
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__nostdlib  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -nostdlib -o CMakeFiles/cmTC_46619.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-1DBnCi/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -nostdlib  CMakeFiles/cmTC_46619.dir/src.c.obj -o cmTC_46619   && :
         
       exitCode: 0
   -
@@ -949,8 +949,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-whYwS4"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-whYwS4"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-oyC7fM"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-oyC7fM"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -960,11 +960,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__static"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-whYwS4'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-oyC7fM'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_0a7fa
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__static  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -static -o CMakeFiles/cmTC_0a7fa.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-whYwS4/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -static  CMakeFiles/cmTC_0a7fa.dir/src.c.obj -o cmTC_0a7fa   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_9a39b
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__static  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -static -o CMakeFiles/cmTC_9a39b.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-oyC7fM/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -static  CMakeFiles/cmTC_9a39b.dir/src.c.obj -o cmTC_9a39b   && :
         
       exitCode: 0
   -
@@ -984,8 +984,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9ojy2T"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9ojy2T"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GIMIyh"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GIMIyh"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -995,11 +995,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__X"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9ojy2T'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GIMIyh'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_fac75
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__X  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-X -o CMakeFiles/cmTC_fac75.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-9ojy2T/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-X  CMakeFiles/cmTC_fac75.dir/src.c.obj -o cmTC_fac75   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_5c05e
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__X  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-X -o CMakeFiles/cmTC_5c05e.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GIMIyh/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-X  CMakeFiles/cmTC_5c05e.dir/src.c.obj -o cmTC_5c05e   && :
         
       exitCode: 0
   -
@@ -1019,8 +1019,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-N0Pcpb"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-N0Pcpb"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cnnGJ6"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cnnGJ6"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1030,11 +1030,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__N"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-N0Pcpb'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cnnGJ6'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_8253a
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__N  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-N -o CMakeFiles/cmTC_8253a.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-N0Pcpb/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-N  CMakeFiles/cmTC_8253a.dir/src.c.obj -o cmTC_8253a   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_5ca52
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl__N  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-N -o CMakeFiles/cmTC_5ca52.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cnnGJ6/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,-N  CMakeFiles/cmTC_5ca52.dir/src.c.obj -o cmTC_5ca52   && :
         
       exitCode: 0
   -
@@ -1054,8 +1054,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-07BUMD"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-07BUMD"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-DM534K"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-DM534K"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1065,11 +1065,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_warn"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-07BUMD'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-DM534K'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_09d69
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_warn  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=warn -o CMakeFiles/cmTC_09d69.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-07BUMD/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=warn  CMakeFiles/cmTC_09d69.dir/src.c.obj -o cmTC_09d69   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_9c6ec
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_warn  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=warn -o CMakeFiles/cmTC_9c6ec.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-DM534K/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=warn  CMakeFiles/cmTC_9c6ec.dir/src.c.obj -o cmTC_9c6ec   && :
         
       exitCode: 0
   -
@@ -1089,8 +1089,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-i9CzXA"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-i9CzXA"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NwpdI8"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NwpdI8"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1100,11 +1100,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_error"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-i9CzXA'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NwpdI8'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_10e43
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_error  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=error -o CMakeFiles/cmTC_10e43.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-i9CzXA/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=error  CMakeFiles/cmTC_10e43.dir/src.c.obj -o cmTC_10e43   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_24894
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___orphan_handling_error  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=error -o CMakeFiles/cmTC_24894.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-NwpdI8/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--orphan-handling=error  CMakeFiles/cmTC_24894.dir/src.c.obj -o cmTC_24894   && :
         
       exitCode: 0
   -
@@ -1124,8 +1124,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uOt1tO"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uOt1tO"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6VquDa"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6VquDa"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1135,11 +1135,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___print_memory_usage"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uOt1tO'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6VquDa'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_1fbd1
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___print_memory_usage  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--print-memory-usage -o CMakeFiles/cmTC_1fbd1.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uOt1tO/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--print-memory-usage  CMakeFiles/cmTC_1fbd1.dir/src.c.obj -o cmTC_1fbd1   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_1f875
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___print_memory_usage  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--print-memory-usage -o CMakeFiles/cmTC_1f875.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-6VquDa/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--print-memory-usage  CMakeFiles/cmTC_1f875.dir/src.c.obj -o cmTC_1f875   && :
         Memory region         Used Size  Region Size  %age Used
         
       exitCode: 0
@@ -1160,8 +1160,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-r52mqW"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-r52mqW"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-b0xsbo"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-b0xsbo"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1171,11 +1171,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___no_relax"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-r52mqW'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-b0xsbo'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_39628
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___no_relax  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--no-relax -o CMakeFiles/cmTC_39628.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-r52mqW/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--no-relax  CMakeFiles/cmTC_39628.dir/src.c.obj -o cmTC_39628   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_2a93a
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___no_relax  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--no-relax -o CMakeFiles/cmTC_2a93a.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-b0xsbo/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--no-relax  CMakeFiles/cmTC_2a93a.dir/src.c.obj -o cmTC_2a93a   && :
         
       exitCode: 0
   -
@@ -1195,8 +1195,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vipoKz"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vipoKz"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-WHHqat"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-WHHqat"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1206,11 +1206,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_common_descending"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vipoKz'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-WHHqat'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_afd86
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_common_descending  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-common=descending -o CMakeFiles/cmTC_afd86.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vipoKz/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-common=descending  CMakeFiles/cmTC_afd86.dir/src.c.obj -o cmTC_afd86   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_c216b
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_common_descending  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-common=descending -o CMakeFiles/cmTC_c216b.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-WHHqat/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-common=descending  CMakeFiles/cmTC_c216b.dir/src.c.obj -o cmTC_c216b   && :
         
       exitCode: 0
   -
@@ -1230,8 +1230,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Pqt11k"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Pqt11k"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-2WN5ZF"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-2WN5ZF"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1241,11 +1241,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_section_alignment"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Pqt11k'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-2WN5ZF'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_8ddab
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_section_alignment  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-section=alignment -o CMakeFiles/cmTC_8ddab.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Pqt11k/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-section=alignment  CMakeFiles/cmTC_8ddab.dir/src.c.obj -o cmTC_8ddab   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_cef55
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__Wl___sort_section_alignment  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-section=alignment -o CMakeFiles/cmTC_cef55.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-2WN5ZF/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -Wl,--sort-section=alignment  CMakeFiles/cmTC_cef55.dir/src.c.obj -o cmTC_cef55   && :
         
       exitCode: 0
   -
@@ -1266,8 +1266,8 @@ events:
       - "/workspace/zephyr/share/zephyr-package/cmake/ZephyrConfig.cmake:92 (include_boilerplate)"
       - "CMakeLists.txt:9 (find_package)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-roox0T"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-roox0T"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BgLvaw"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BgLvaw"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1277,11 +1277,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__pg"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-roox0T'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BgLvaw'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_253d0
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__pg  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -pg -o CMakeFiles/cmTC_253d0.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-roox0T/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -pg  CMakeFiles/cmTC_253d0.dir/src.c.obj -o cmTC_253d0   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_f5b1b
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__pg  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -pg -o CMakeFiles/cmTC_f5b1b.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BgLvaw/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -pg  CMakeFiles/cmTC_f5b1b.dir/src.c.obj -o cmTC_f5b1b   && :
         
       exitCode: 0
   -
@@ -1296,8 +1296,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:164 (target_ld_options)"
       - "/workspace/zephyr/CMakeLists.txt:383 (zephyr_ld_options)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VgjuMR"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VgjuMR"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-y1QPf2"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-y1QPf2"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1307,11 +1307,11 @@ events:
       variable: "check_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__mcpu_cortex_m4__mthumb__mabi_aapcs__mfpu_fpv4_sp_d16__mfloat_abi_hard__mfp16_format_ieee__mtp_soft__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VgjuMR'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-y1QPf2'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_9ff59
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__mcpu_cortex_m4__mthumb__mabi_aapcs__mfpu_fpv4_sp_d16__mfloat_abi_hard__mfp16_format_ieee__mtp_soft__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -mcpu=cortex-m4 -mthumb -mabi=aapcs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mfp16-format=ieee -mtp=soft -fuse-ld=bfd -o CMakeFiles/cmTC_9ff59.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-VgjuMR/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -mcpu=cortex-m4 -mthumb -mabi=aapcs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mfp16-format=ieee -mtp=soft -fuse-ld=bfd  CMakeFiles/cmTC_9ff59.dir/src.c.obj -o cmTC_9ff59   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_551f6
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd__mcpu_cortex_m4__mthumb__mabi_aapcs__mfpu_fpv4_sp_d16__mfloat_abi_hard__mfp16_format_ieee__mtp_soft__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -mcpu=cortex-m4 -mthumb -mabi=aapcs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mfp16-format=ieee -mtp=soft -fuse-ld=bfd -o CMakeFiles/cmTC_551f6.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-y1QPf2/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd -mcpu=cortex-m4 -mthumb -mabi=aapcs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mfp16-format=ieee -mtp=soft -fuse-ld=bfd  CMakeFiles/cmTC_551f6.dir/src.c.obj -o cmTC_551f6   && :
         
       exitCode: 0
   -
@@ -1327,8 +1327,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:484 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AHrtEz"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AHrtEz"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cpCI41"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cpCI41"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1338,11 +1338,11 @@ events:
       variable: "check_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AHrtEz'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cpCI41'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c2219
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-asynchronous-unwind-tables -o CMakeFiles/cmTC_c2219.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-AHrtEz/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c2219.dir/src.c.obj -o cmTC_c2219   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_7a63a
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-asynchronous-unwind-tables -o CMakeFiles/cmTC_7a63a.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-cpCI41/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_7a63a.dir/src.c.obj -o cmTC_7a63a   && :
         
       exitCode: 0
   -
@@ -1358,8 +1358,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:492 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uL1dND"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uL1dND"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BlhJkF"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BlhJkF"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1369,11 +1369,11 @@ events:
       variable: "check_ftls_model_local_exec_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uL1dND'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BlhJkF'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_9b606
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_ftls_model_local_exec_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -ftls-model=local-exec -o CMakeFiles/cmTC_9b606.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uL1dND/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_9b606.dir/src.c.obj -o cmTC_9b606   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_694fd
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_ftls_model_local_exec_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -ftls-model=local-exec -o CMakeFiles/cmTC_694fd.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-BlhJkF/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_694fd.dir/src.c.obj -o cmTC_694fd   && :
         
       exitCode: 0
   -
@@ -1389,8 +1389,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:512 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0TBGLT"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0TBGLT"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-biGss8"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-biGss8"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1400,11 +1400,11 @@ events:
       variable: "check_fno_reorder_functions_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0TBGLT'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-biGss8'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_68ee2
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_reorder_functions_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-reorder-functions -o CMakeFiles/cmTC_68ee2.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-0TBGLT/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_68ee2.dir/src.c.obj -o cmTC_68ee2   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_b6159
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_reorder_functions_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-reorder-functions -o CMakeFiles/cmTC_b6159.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-biGss8/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_b6159.dir/src.c.obj -o cmTC_b6159   && :
         
       exitCode: 0
   -
@@ -1420,8 +1420,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:519 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o9373N"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o9373N"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-OykwsM"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-OykwsM"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1431,11 +1431,11 @@ events:
       variable: "check__param_min_pagesize_0_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o9373N'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-OykwsM'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c29fe
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck__param_min_pagesize_0_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   --param=min-pagesize=0 -o CMakeFiles/cmTC_c29fe.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-o9373N/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c29fe.dir/src.c.obj -o cmTC_c29fe   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_54f15
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck__param_min_pagesize_0_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   --param=min-pagesize=0 -o CMakeFiles/cmTC_54f15.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-OykwsM/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_54f15.dir/src.c.obj -o cmTC_54f15   && :
         
       exitCode: 0
   -
@@ -1451,8 +1451,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:522 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-edD2H3"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-edD2H3"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-D0A5zc"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-D0A5zc"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1462,11 +1462,11 @@ events:
       variable: "check_fno_defer_pop_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-edD2H3'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-D0A5zc'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_d6923
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_defer_pop_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-defer-pop -o CMakeFiles/cmTC_d6923.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-edD2H3/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_d6923.dir/src.c.obj -o cmTC_d6923   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_5d3f5
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fno_defer_pop_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fno-defer-pop -o CMakeFiles/cmTC_5d3f5.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-D0A5zc/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_5d3f5.dir/src.c.obj -o cmTC_5d3f5   && :
         
       exitCode: 0
   -
@@ -1482,8 +1482,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:541 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Ldc3Sh"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Ldc3Sh"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GmvHDC"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GmvHDC"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1493,11 +1493,11 @@ events:
       variable: "check_fmacro_prefix_map__workspace_zmk_app_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Ldc3Sh'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GmvHDC'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_1c3ed
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fmacro_prefix_map__workspace_zmk_app_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fmacro-prefix-map=/workspace/zmk/app=CMAKE_SOURCE_DIR -o CMakeFiles/cmTC_1c3ed.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Ldc3Sh/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_1c3ed.dir/src.c.obj -o cmTC_1c3ed   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_8a485
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fmacro_prefix_map__workspace_zmk_app_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fmacro-prefix-map=/workspace/zmk/app=CMAKE_SOURCE_DIR -o CMakeFiles/cmTC_8a485.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-GmvHDC/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_8a485.dir/src.c.obj -o cmTC_8a485   && :
         
       exitCode: 0
   -
@@ -1513,8 +1513,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:542 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-laTsFe"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-laTsFe"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-3fvWtl"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-3fvWtl"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1524,11 +1524,11 @@ events:
       variable: "check_fmacro_prefix_map__workspace_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-laTsFe'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-3fvWtl'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_c4a33
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fmacro_prefix_map__workspace_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fmacro-prefix-map=/workspace/zephyr=ZEPHYR_BASE -o CMakeFiles/cmTC_c4a33.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-laTsFe/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_c4a33.dir/src.c.obj -o cmTC_c4a33   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_af512
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fmacro_prefix_map__workspace_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fmacro-prefix-map=/workspace/zephyr=ZEPHYR_BASE -o CMakeFiles/cmTC_af512.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-3fvWtl/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_af512.dir/src.c.obj -o cmTC_af512   && :
         
       exitCode: 0
   -
@@ -1544,8 +1544,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/CMakeLists.txt:544 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-kuyaYV"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-kuyaYV"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uhouE6"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uhouE6"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1555,11 +1555,11 @@ events:
       variable: "check_fmacro_prefix_map__workspace_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-kuyaYV'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uhouE6'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_5f5c9
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fmacro_prefix_map__workspace_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fmacro-prefix-map=/workspace=WEST_TOPDIR -o CMakeFiles/cmTC_5f5c9.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-kuyaYV/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_5f5c9.dir/src.c.obj -o cmTC_5f5c9   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_9ee91
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fmacro_prefix_map__workspace_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fmacro-prefix-map=/workspace=WEST_TOPDIR -o CMakeFiles/cmTC_9ee91.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-uhouE6/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_9ee91.dir/src.c.obj -o cmTC_9ee91   && :
         
       exitCode: 0
   -
@@ -1575,8 +1575,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/arch/common/CMakeLists.txt:40 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-lLnVvA"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-lLnVvA"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ft96AL"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ft96AL"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1586,11 +1586,11 @@ events:
       variable: "check_ffunction_sections_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-lLnVvA'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ft96AL'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_47bd0
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_ffunction_sections_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -ffunction-sections -o CMakeFiles/cmTC_47bd0.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-lLnVvA/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_47bd0.dir/src.c.obj -o cmTC_47bd0   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_add86
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_ffunction_sections_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -ffunction-sections -o CMakeFiles/cmTC_add86.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-ft96AL/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_add86.dir/src.c.obj -o cmTC_add86   && :
         
       exitCode: 0
   -
@@ -1606,8 +1606,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "/workspace/zephyr/arch/common/CMakeLists.txt:40 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-pD1c0Y"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-pD1c0Y"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Fr3PDw"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Fr3PDw"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1617,11 +1617,11 @@ events:
       variable: "check_fdata_sections_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-pD1c0Y'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Fr3PDw'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_520f6
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fdata_sections_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fdata-sections -o CMakeFiles/cmTC_520f6.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-pD1c0Y/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_520f6.dir/src.c.obj -o cmTC_520f6   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_fb30b
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_fdata_sections_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -fdata-sections -o CMakeFiles/cmTC_fb30b.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-Fr3PDw/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_fb30b.dir/src.c.obj -o cmTC_fb30b   && :
         
       exitCode: 0
   -
@@ -1637,8 +1637,8 @@ events:
       - "/workspace/zephyr/cmake/modules/extensions.cmake:155 (target_cc_option)"
       - "CMakeLists.txt:135 (zephyr_cc_option)"
     directories:
-      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-c93ne9"
-      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-c93ne9"
+      source: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vQgIGr"
+      binary: "/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vQgIGr"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1648,11 +1648,11 @@ events:
       variable: "check_Wfatal_errors_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd"
       cached: true
       stdout: |
-        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-c93ne9'
+        Change Dir: '/workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vQgIGr'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_01475
-        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wfatal_errors_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wfatal-errors -o CMakeFiles/cmTC_01475.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-c93ne9/src.c
-        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_01475.dir/src.c.obj -o cmTC_01475   && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_b455e
+        [1/2] /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -Dcheck_Wfatal_errors_C__nostartfiles__nostdlib__isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include___isystem___opt_zephyr_sdk_0_16_3_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_2_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fuse_ld_bfd  -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd   -Wfatal-errors -o CMakeFiles/cmTC_b455e.dir/src.c.obj -c /workspace/build/cradio_right/CMakeFiles/CMakeScratch/TryCompile-vQgIGr/src.c
+        [2/2] : && /opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc -nostartfiles -nostdlib -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include" -isystem "/opt/zephyr-sdk-0.16.3/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -fuse-ld=bfd  CMakeFiles/cmTC_b455e.dir/src.c.obj -o cmTC_b455e   && :
         
       exitCode: 0
 ...

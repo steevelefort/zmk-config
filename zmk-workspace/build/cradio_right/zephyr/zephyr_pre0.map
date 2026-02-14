@@ -3193,7 +3193,7 @@ initlevel       0x000000000002faa0       0x90
                 0x000000000002fae0        0x8 app/libapp.a(behavior_reset.c.obj)
  .z_init_POST_KERNEL40_00025_
                 0x000000000002fae8        0x8 app/libapp.a(behavior_ext_power.c.obj)
- .z_init_POST_KERNEL40_00038_
+ .z_init_POST_KERNEL40_00042_
                 0x000000000002faf0        0x8 app/libapp.a(behavior_reset.c.obj)
  .z_init_POST_KERNEL40_0_
                 0x000000000002faf8        0x8 zephyr/kernel/libkernel.a(system_work_q.c.obj)
@@ -3234,7 +3234,7 @@ device_area     0x000000000002fb30       0x8c
  ._device.static.3_40_
                 0x000000000002fb6c       0x28 app/libapp.a(behavior_reset.c.obj)
                 0x000000000002fb6c                __device_dts_ord_24
-                0x000000000002fb80                __device_dts_ord_38
+                0x000000000002fb80                __device_dts_ord_42
  ._device.static.3_40_
                 0x000000000002fb94       0x14 app/libapp.a(behavior_ext_power.c.obj)
                 0x000000000002fb94                __device_dts_ord_25
@@ -4325,7 +4325,7 @@ zmk_behavior_ref_area
                 0x00000000000309e4        0x4 app/libapp.a(behavior_reset.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_25_
                 0x00000000000309e8        0x4 app/libapp.a(behavior_ext_power.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_38_
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_42_
                 0x00000000000309ec        0x4 app/libapp.a(behavior_reset.c.obj)
                 0x00000000000309f0                _zmk_behavior_ref_list_end = .
 

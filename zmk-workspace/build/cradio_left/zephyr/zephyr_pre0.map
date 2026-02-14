@@ -3801,37 +3801,37 @@ initlevel       0x0000000000032ad8      0x160
                 0x0000000000032b30        0x8 app/libapp.a(behavior_reset.c.obj)
  .z_init_POST_KERNEL40_00025_
                 0x0000000000032b38        0x8 app/libapp.a(behavior_ext_power.c.obj)
- .z_init_POST_KERNEL40_00038_
-                0x0000000000032b40        0x8 app/libapp.a(behavior_reset.c.obj)
- .z_init_POST_KERNEL40_00040_
-                0x0000000000032b48        0x8 app/libapp.a(behavior_caps_word.c.obj)
- .z_init_POST_KERNEL40_00041_
-                0x0000000000032b50        0x8 app/libapp.a(behavior_key_press.c.obj)
+ .z_init_POST_KERNEL40_00026_
+                0x0000000000032b40        0x8 app/libapp.a(behavior_key_press.c.obj)
+ .z_init_POST_KERNEL40_00028_
+                0x0000000000032b48        0x8 app/libapp.a(behavior_macro.c.obj)
+ .z_init_POST_KERNEL40_00029_
+                0x0000000000032b50        0x8 app/libapp.a(behavior_hold_tap.c.obj)
  .z_init_POST_KERNEL40_00042_
-                0x0000000000032b58        0x8 app/libapp.a(behavior_hold_tap.c.obj)
- .z_init_POST_KERNEL40_00043_
-                0x0000000000032b60        0x8 app/libapp.a(behavior_momentary_layer.c.obj)
+                0x0000000000032b58        0x8 app/libapp.a(behavior_reset.c.obj)
  .z_init_POST_KERNEL40_00044_
-                0x0000000000032b68        0x8 app/libapp.a(behavior_sticky_key.c.obj)
- .z_init_POST_KERNEL40_00062_
-                0x0000000000032b70        0x8 app/libapp.a(behavior_hold_tap.c.obj)
- .z_init_POST_KERNEL40_00063_
-                0x0000000000032b78        0x8 app/libapp.a(behavior_hold_tap.c.obj)
- .z_init_POST_KERNEL40_00064_
-                0x0000000000032b80        0x8 app/libapp.a(behavior_hold_tap.c.obj)
+                0x0000000000032b60        0x8 app/libapp.a(behavior_caps_word.c.obj)
+ .z_init_POST_KERNEL40_00045_
+                0x0000000000032b68        0x8 app/libapp.a(behavior_hold_tap.c.obj)
+ .z_init_POST_KERNEL40_00046_
+                0x0000000000032b70        0x8 app/libapp.a(behavior_momentary_layer.c.obj)
+ .z_init_POST_KERNEL40_00047_
+                0x0000000000032b78        0x8 app/libapp.a(behavior_sticky_key.c.obj)
  .z_init_POST_KERNEL40_00065_
-                0x0000000000032b88        0x8 app/libapp.a(behavior_hold_tap.c.obj)
+                0x0000000000032b80        0x8 app/libapp.a(behavior_hold_tap.c.obj)
  .z_init_POST_KERNEL40_00066_
+                0x0000000000032b88        0x8 app/libapp.a(behavior_hold_tap.c.obj)
+ .z_init_POST_KERNEL40_00067_
                 0x0000000000032b90        0x8 app/libapp.a(behavior_hold_tap.c.obj)
  .z_init_POST_KERNEL40_00068_
-                0x0000000000032b98        0x8 app/libapp.a(behavior_macro.c.obj)
+                0x0000000000032b98        0x8 app/libapp.a(behavior_hold_tap.c.obj)
  .z_init_POST_KERNEL40_00069_
                 0x0000000000032ba0        0x8 app/libapp.a(behavior_hold_tap.c.obj)
  .z_init_POST_KERNEL40_00070_
                 0x0000000000032ba8        0x8 app/libapp.a(behavior_hold_tap.c.obj)
  .z_init_POST_KERNEL40_00071_
                 0x0000000000032bb0        0x8 app/libapp.a(behavior_transparent.c.obj)
- .z_init_POST_KERNEL40_00072_
+ .z_init_POST_KERNEL40_00080_
                 0x0000000000032bb8        0x8 app/libapp.a(behavior_macro.c.obj)
  .z_init_POST_KERNEL40_00081_
                 0x0000000000032bc0        0x8 app/libapp.a(behavior_macro.c.obj)
@@ -3888,41 +3888,41 @@ device_area     0x0000000000032c38      0x258
  ._device.static.3_40_
                 0x0000000000032c74       0x28 app/libapp.a(behavior_reset.c.obj)
                 0x0000000000032c74                __device_dts_ord_24
-                0x0000000000032c88                __device_dts_ord_38
+                0x0000000000032c88                __device_dts_ord_42
  ._device.static.3_40_
                 0x0000000000032c9c       0x14 app/libapp.a(behavior_ext_power.c.obj)
                 0x0000000000032c9c                __device_dts_ord_25
  ._device.static.3_40_
                 0x0000000000032cb0       0x14 app/libapp.a(behavior_key_press.c.obj)
-                0x0000000000032cb0                __device_dts_ord_41
+                0x0000000000032cb0                __device_dts_ord_26
  ._device.static.3_40_
                 0x0000000000032cc4       0xa0 app/libapp.a(behavior_hold_tap.c.obj)
-                0x0000000000032cc4                __device_dts_ord_63
-                0x0000000000032cd8                __device_dts_ord_62
-                0x0000000000032cec                __device_dts_ord_66
-                0x0000000000032d00                __device_dts_ord_69
-                0x0000000000032d14                __device_dts_ord_65
-                0x0000000000032d28                __device_dts_ord_64
+                0x0000000000032cc4                __device_dts_ord_66
+                0x0000000000032cd8                __device_dts_ord_65
+                0x0000000000032cec                __device_dts_ord_69
+                0x0000000000032d00                __device_dts_ord_29
+                0x0000000000032d14                __device_dts_ord_68
+                0x0000000000032d28                __device_dts_ord_67
                 0x0000000000032d3c                __device_dts_ord_70
-                0x0000000000032d50                __device_dts_ord_42
+                0x0000000000032d50                __device_dts_ord_45
  ._device.static.3_40_
                 0x0000000000032d64       0x14 app/libapp.a(behavior_sticky_key.c.obj)
-                0x0000000000032d64                __device_dts_ord_44
+                0x0000000000032d64                __device_dts_ord_47
  ._device.static.3_40_
                 0x0000000000032d78       0x14 app/libapp.a(behavior_caps_word.c.obj)
-                0x0000000000032d78                __device_dts_ord_40
+                0x0000000000032d78                __device_dts_ord_44
  ._device.static.3_40_
                 0x0000000000032d8c       0x8c app/libapp.a(behavior_macro.c.obj)
                 0x0000000000032d8c                __device_dts_ord_84
                 0x0000000000032da0                __device_dts_ord_82
                 0x0000000000032db4                __device_dts_ord_83
                 0x0000000000032dc8                __device_dts_ord_85
-                0x0000000000032ddc                __device_dts_ord_81
-                0x0000000000032df0                __device_dts_ord_72
-                0x0000000000032e04                __device_dts_ord_68
+                0x0000000000032ddc                __device_dts_ord_80
+                0x0000000000032df0                __device_dts_ord_81
+                0x0000000000032e04                __device_dts_ord_28
  ._device.static.3_40_
                 0x0000000000032e18       0x14 app/libapp.a(behavior_momentary_layer.c.obj)
-                0x0000000000032e18                __device_dts_ord_43
+                0x0000000000032e18                __device_dts_ord_46
  ._device.static.3_40_
                 0x0000000000032e2c       0x14 app/libapp.a(behavior_transparent.c.obj)
                 0x0000000000032e2c                __device_dts_ord_71
@@ -4863,7 +4863,7 @@ rodata          0x00000000000330b0     0x1954
                 0x00000000000347e7       0x15 app/libapp.a(endpoint_changed.c.obj)
  .rodata.str1.1
                 0x00000000000347fc       0x12 app/libapp.a(keymap.c.obj)
-                                         0x9d (size before relaxing)
+                                         0x85 (size before relaxing)
  .rodata.str1.1
                 0x000000000003480e       0x18 app/libapp.a(layer_state_changed.c.obj)
  .rodata.str1.1
@@ -5249,37 +5249,37 @@ zmk_behavior_ref_area
                 0x0000000000034f44        0x4 app/libapp.a(behavior_reset.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_25_
                 0x0000000000034f48        0x4 app/libapp.a(behavior_ext_power.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_38_
-                0x0000000000034f4c        0x4 app/libapp.a(behavior_reset.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_40_
-                0x0000000000034f50        0x4 app/libapp.a(behavior_caps_word.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_41_
-                0x0000000000034f54        0x4 app/libapp.a(behavior_key_press.c.obj)
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_26_
+                0x0000000000034f4c        0x4 app/libapp.a(behavior_key_press.c.obj)
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_28_
+                0x0000000000034f50        0x4 app/libapp.a(behavior_macro.c.obj)
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_29_
+                0x0000000000034f54        0x4 app/libapp.a(behavior_hold_tap.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_42_
-                0x0000000000034f58        0x4 app/libapp.a(behavior_hold_tap.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_43_
-                0x0000000000034f5c        0x4 app/libapp.a(behavior_momentary_layer.c.obj)
+                0x0000000000034f58        0x4 app/libapp.a(behavior_reset.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_44_
-                0x0000000000034f60        0x4 app/libapp.a(behavior_sticky_key.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_62_
-                0x0000000000034f64        0x4 app/libapp.a(behavior_hold_tap.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_63_
-                0x0000000000034f68        0x4 app/libapp.a(behavior_hold_tap.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_64_
-                0x0000000000034f6c        0x4 app/libapp.a(behavior_hold_tap.c.obj)
+                0x0000000000034f5c        0x4 app/libapp.a(behavior_caps_word.c.obj)
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_45_
+                0x0000000000034f60        0x4 app/libapp.a(behavior_hold_tap.c.obj)
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_46_
+                0x0000000000034f64        0x4 app/libapp.a(behavior_momentary_layer.c.obj)
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_47_
+                0x0000000000034f68        0x4 app/libapp.a(behavior_sticky_key.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_65_
-                0x0000000000034f70        0x4 app/libapp.a(behavior_hold_tap.c.obj)
+                0x0000000000034f6c        0x4 app/libapp.a(behavior_hold_tap.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_66_
+                0x0000000000034f70        0x4 app/libapp.a(behavior_hold_tap.c.obj)
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_67_
                 0x0000000000034f74        0x4 app/libapp.a(behavior_hold_tap.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_68_
-                0x0000000000034f78        0x4 app/libapp.a(behavior_macro.c.obj)
+                0x0000000000034f78        0x4 app/libapp.a(behavior_hold_tap.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_69_
                 0x0000000000034f7c        0x4 app/libapp.a(behavior_hold_tap.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_70_
                 0x0000000000034f80        0x4 app/libapp.a(behavior_hold_tap.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_71_
                 0x0000000000034f84        0x4 app/libapp.a(behavior_transparent.c.obj)
- ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_72_
+ ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_80_
                 0x0000000000034f88        0x4 app/libapp.a(behavior_macro.c.obj)
  ._zmk_behavior_ref.static.zmk_behavior___device_dts_ord_81_
                 0x0000000000034f8c        0x4 app/libapp.a(behavior_macro.c.obj)
