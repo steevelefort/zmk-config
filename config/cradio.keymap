@@ -106,6 +106,13 @@
             hold-trigger-on-release;
             label = "F_HMR";
         };
+
+        Y_capslock: Y_capslock {
+            compatible = "zmk,behavior-tap-dance";
+            label = "Y_CAPSLOCK";
+            #binding-cells = <0>;
+            bindings = <&kp Y>, <&kp CAPSLOCK>;
+        };
     };
 
     combos {
@@ -239,11 +246,10 @@
 
         default_layer {
             bindings = <
-&kp Q        &kp W        &kp E         &kp R           &kp T                &kp Y                 &kp U           &kp I            &kp O        &kp P
-&hml LGUI A  &hml RALT S  &hml LCTRL D  &f_hml LSHFT F  &kp G                &kp H                 &f_hmr RSHFT J  &hmr RCTRL K     &hmr RALT L  &hmr RGUI SEMICOLON
-&kp Z        &kp X        &hml LALT C   &hrl 4 V        &kp B                &kp N                 &kp M           &hmr LALT COMMA  &kp DOT      &kp FSLH
-                                        // &lt 1 SPACE     &mt RIGHT_ALT TAB    &mt LEFT_SHIFT ENTER  &lt 2 BSPC
-                                        &lt 1 SPACE     &mt LEFT_SHIFT TAB   &mt RIGHT_ALT ENTER  &lt 2 BSPC
+&kp Q        &kp W        &kp E         &kp R           &kp T                 &Y_capslock          &kp U           &kp I            &kp O        &kp P
+&hml LGUI A  &hml RALT S  &hml LCTRL D  &f_hml LSHFT F  &kp G                 &kp H                &f_hmr RSHFT J  &hmr RCTRL K     &hmr RALT L  &hmr RGUI SEMICOLON
+&kp Z        &kp X        &hml LALT C   &hrl 4 V        &kp B                 &kp N                &kp M           &hmr LALT COMMA  &kp DOT      &kp FSLH
+                                        &lt 1 SPACE     &mt LEFT_SHIFT TAB    &mt RIGHT_ALT ENTER  &lt 2 BSPC
             >;
         };
 
@@ -260,12 +266,10 @@
         num_layer {
             display-name = "NUMERIC";
             bindings = <
-&kp F1  &kp F2      &kp F3        &kp F4               &kp F5    &kp F6  &kp F7   &kp F8        &kp F9   &kp F10
-// &kp N1  &kp N2      &kp N3        &kp N4               &kp N5    &kp N6  &kp N7   &kp N8        &kp N9   &kp N0
-// &trans  &kp LS(N1)  &hroa LALT 0  &closed_angle_quote  &trans    &trans  &kp F11  &hmr LALT N9  &kp F12  &trans
+&kp F1        &kp F2        &kp F3         &kp F4                &kp F5    &kp F6  &kp F7                 &kp F8         &kp F9             &kp F10
 &hml LGUI N1  &hml RALT N2  &hml LCTRL N3  &f_hml LEFT_SHIFT N4  &kp N5    &kp N6  &f_hmr RIGHT_SHIFT N7  &hmr RCTRL N8  &hmr RIGHT_ALT N9  &hmr RIGHT_GUI N0
-&trans        &kp Z         &trans         &kp B                &trans     &trans  &kp F11                &trans         &kp F12            &trans
-                                  &trans               &trans    &trans  &trans
+&trans        &kp Z         &trans         &kp B                 &trans    &trans  &kp F11                &trans         &kp F12            &trans
+                                           &trans                &trans    &trans  &trans
             >;
         };
 
