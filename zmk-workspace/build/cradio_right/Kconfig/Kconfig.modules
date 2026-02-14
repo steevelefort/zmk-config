@@ -1,0 +1,297 @@
+config ZEPHYR_HAL_STM32_MODULE
+	bool
+	default y
+
+config ZEPHYR_HAL_STM32_MODULE_BLOBS
+	bool
+menu "lvgl (/workspace/modules/lib/gui/lvgl)"
+osource "/workspace/modules/lib/gui/lvgl/zephyr/Kconfig"
+config ZEPHYR_LVGL_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_ZMK_STUDIO_MESSAGES_MODULE
+	bool
+	default y
+menu "canopennode (/workspace/modules/lib/canopennode)"
+osource "$(ZEPHYR_CANOPENNODE_KCONFIG)"
+config ZEPHYR_CANOPENNODE_MODULE
+	bool
+	default y
+endmenu
+menu "chre (/workspace/modules/lib/chre)"
+osource "/workspace/modules/lib/chre/platform/zephyr/Kconfig"
+config ZEPHYR_CHRE_MODULE
+	bool
+	default y
+endmenu
+menu "lz4 (/workspace/modules/lib/lz4)"
+osource "$(ZEPHYR_LZ4_KCONFIG)"
+config ZEPHYR_LZ4_MODULE
+	bool
+	default y
+endmenu
+menu "nanopb (/workspace/modules/lib/nanopb)"
+osource "$(ZEPHYR_NANOPB_KCONFIG)"
+config ZEPHYR_NANOPB_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_PSA_ARCH_TESTS_MODULE
+	bool
+	default y
+menu "sof (/workspace/modules/audio/sof)"
+osource "/workspace/modules/audio/sof/zephyr/Kconfig"
+config ZEPHYR_SOF_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_TF_M_TESTS_MODULE
+	bool
+	default y
+menu "tflite-micro (/workspace/optional/modules/lib/tflite-micro)"
+osource "$(ZEPHYR_TFLITE_MICRO_KCONFIG)"
+config ZEPHYR_TFLITE_MICRO_MODULE
+	bool
+	default y
+endmenu
+menu "thrift (/workspace/optional/modules/lib/thrift)"
+osource "$(ZEPHYR_THRIFT_KCONFIG)"
+config ZEPHYR_THRIFT_MODULE
+	bool
+	default y
+endmenu
+menu "lang-rust (/workspace/modules/lang/rust)"
+osource "/workspace/modules/lang/rust/Kconfig"
+config ZEPHYR_LANG_RUST_MODULE
+	bool
+	default y
+endmenu
+menu "zscilib (/workspace/modules/lib/zscilib)"
+osource "/workspace/modules/lib/zscilib/Kconfig.zscilib"
+config ZEPHYR_ZSCILIB_MODULE
+	bool
+	default y
+endmenu
+menu "acpica (/workspace/modules/lib/acpica)"
+osource "$(ZEPHYR_ACPICA_KCONFIG)"
+config ZEPHYR_ACPICA_MODULE
+	bool
+	default y
+endmenu
+menu "cmsis (/workspace/modules/hal/cmsis)"
+osource "$(ZEPHYR_CMSIS_KCONFIG)"
+config ZEPHYR_CMSIS_MODULE
+	bool
+	default y
+endmenu
+menu "cmsis-dsp (/workspace/modules/lib/cmsis-dsp)"
+osource "$(ZEPHYR_CMSIS_DSP_KCONFIG)"
+config ZEPHYR_CMSIS_DSP_MODULE
+	bool
+	default y
+endmenu
+menu "cmsis-nn (/workspace/modules/lib/cmsis-nn)"
+osource "$(ZEPHYR_CMSIS_NN_KCONFIG)"
+config ZEPHYR_CMSIS_NN_MODULE
+	bool
+	default y
+endmenu
+menu "fatfs (/workspace/modules/fs/fatfs)"
+osource "$(ZEPHYR_FATFS_KCONFIG)"
+config ZEPHYR_FATFS_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_ADI_MODULE
+	bool
+	default y
+menu "hal_ambiq (/workspace/modules/hal/ambiq)"
+osource "$(ZEPHYR_HAL_AMBIQ_KCONFIG)"
+config ZEPHYR_HAL_AMBIQ_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_ATMEL_MODULE
+	bool
+	default y
+menu "hal_espressif (/workspace/modules/hal/espressif)"
+osource "/workspace/modules/hal/espressif/zephyr/Kconfig"
+config ZEPHYR_HAL_ESPRESSIF_MODULE
+	bool
+	default y
+
+config ZEPHYR_HAL_ESPRESSIF_MODULE_BLOBS
+	bool
+endmenu
+menu "hal_ethos_u (/workspace/modules/hal/ethos_u)"
+osource "$(ZEPHYR_HAL_ETHOS_U_KCONFIG)"
+config ZEPHYR_HAL_ETHOS_U_MODULE
+	bool
+	default y
+endmenu
+menu "hal_gigadevice (/workspace/modules/hal/gigadevice)"
+osource "$(ZEPHYR_HAL_GIGADEVICE_KCONFIG)"
+config ZEPHYR_HAL_GIGADEVICE_MODULE
+	bool
+	default y
+endmenu
+menu "hal_intel (/workspace/modules/hal/intel)"
+osource "/workspace/modules/hal/intel/zephyr/Kconfig"
+config ZEPHYR_HAL_INTEL_MODULE
+	bool
+	default y
+endmenu
+menu "hal_nordic (/workspace/modules/hal/nordic)"
+osource "$(ZEPHYR_HAL_NORDIC_KCONFIG)"
+config ZEPHYR_HAL_NORDIC_MODULE
+	bool
+	default y
+
+config ZEPHYR_HAL_NORDIC_MODULE_BLOBS
+	bool
+endmenu
+config ZEPHYR_NUVOTON_MODULE
+	bool
+	default y
+config ZEPHYR_QUICKLOGIC_MODULE
+	bool
+	default y
+config ZEPHYR_HAL_RENESAS_MODULE
+	bool
+	default y
+
+config ZEPHYR_HAL_RENESAS_MODULE_BLOBS
+	bool
+menu "hal_rpi_pico (/workspace/modules/hal/rpi_pico)"
+osource "$(ZEPHYR_HAL_RPI_PICO_KCONFIG)"
+config ZEPHYR_HAL_RPI_PICO_MODULE
+	bool
+	default y
+endmenu
+menu "hal_silabs (/workspace/modules/hal/silabs)"
+osource "$(ZEPHYR_HAL_SILABS_KCONFIG)"
+config ZEPHYR_HAL_SILABS_MODULE
+	bool
+	default y
+
+config ZEPHYR_HAL_SILABS_MODULE_BLOBS
+	bool
+endmenu
+menu "hal_tdk (/workspace/modules/hal/tdk)"
+osource "$(ZEPHYR_HAL_TDK_KCONFIG)"
+config ZEPHYR_HAL_TDK_MODULE
+	bool
+	default y
+endmenu
+menu "hal_telink (/workspace/modules/hal/telink)"
+osource "/workspace/modules/hal/telink/Kconfig"
+config ZEPHYR_HAL_TELINK_MODULE
+	bool
+	default y
+endmenu
+menu "hal_wch (/workspace/modules/hal/wch)"
+osource "$(ZEPHYR_HAL_WCH_KCONFIG)"
+config ZEPHYR_HAL_WCH_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_HAL_WURTHELEKTRONIK_MODULE
+	bool
+	default y
+menu "hostap (/workspace/modules/lib/hostap)"
+osource "$(ZEPHYR_HOSTAP_KCONFIG)"
+config ZEPHYR_HOSTAP_MODULE
+	bool
+	default y
+endmenu
+menu "liblc3 (/workspace/modules/lib/liblc3)"
+osource "$(ZEPHYR_LIBLC3_KCONFIG)"
+config ZEPHYR_LIBLC3_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_LIBMCTP_MODULE
+	bool
+	default y
+config ZEPHYR_LIBMETAL_MODULE
+	bool
+	default y
+menu "littlefs (/workspace/modules/fs/littlefs)"
+osource "$(ZEPHYR_LITTLEFS_KCONFIG)"
+config ZEPHYR_LITTLEFS_MODULE
+	bool
+	default y
+endmenu
+menu "mbedtls (/workspace/modules/crypto/mbedtls)"
+osource "$(ZEPHYR_MBEDTLS_KCONFIG)"
+config ZEPHYR_MBEDTLS_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_MIPI_SYS_T_MODULE
+	bool
+	default y
+menu "nrf_wifi (/workspace/modules/lib/nrf_wifi)"
+osource "$(ZEPHYR_NRF_WIFI_KCONFIG)"
+config ZEPHYR_NRF_WIFI_MODULE
+	bool
+	default y
+
+config ZEPHYR_NRF_WIFI_MODULE_BLOBS
+	bool
+endmenu
+config ZEPHYR_OPEN_AMP_MODULE
+	bool
+	default y
+menu "percepio (/workspace/modules/debug/percepio)"
+osource "/workspace/modules/debug/percepio/zephyr/Kconfig"
+config ZEPHYR_PERCEPIO_MODULE
+	bool
+	default y
+endmenu
+menu "picolibc (/workspace/modules/lib/picolibc)"
+osource "/workspace/modules/lib/picolibc/zephyr/Kconfig"
+config ZEPHYR_PICOLIBC_MODULE
+	bool
+	default y
+endmenu
+menu "segger (/workspace/modules/debug/segger)"
+osource "$(ZEPHYR_SEGGER_KCONFIG)"
+config ZEPHYR_SEGGER_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_TINYCRYPT_MODULE
+	bool
+	default y
+menu "trusted-firmware-a (/workspace/modules/tee/tf-a/trusted-firmware-a)"
+osource "$(ZEPHYR_TRUSTED_FIRMWARE_A_KCONFIG)"
+config ZEPHYR_TRUSTED_FIRMWARE_A_MODULE
+	bool
+	default y
+endmenu
+menu "uoscore-uedhoc (/workspace/modules/lib/uoscore-uedhoc)"
+osource "$(ZEPHYR_UOSCORE_UEDHOC_KCONFIG)"
+config ZEPHYR_UOSCORE_UEDHOC_MODULE
+	bool
+	default y
+endmenu
+menu "zcbor (/workspace/modules/lib/zcbor)"
+osource "$(ZEPHYR_ZCBOR_KCONFIG)"
+config ZEPHYR_ZCBOR_MODULE
+	bool
+	default y
+endmenu
+menu "module (/workspace/zmk/app/module)"
+osource "/workspace/zmk/app/module/Kconfig"
+config ZEPHYR_MODULE_MODULE
+	bool
+	default y
+endmenu
+config ZEPHYR_KEYMAP_MODULE_MODULE
+	bool
+	default y
+config ZEPHYR_NRF_HW_MODELS_MODULE
+	bool
+	default y

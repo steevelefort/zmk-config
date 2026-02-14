@@ -1,0 +1,3 @@
+# Load Sysbuild board Kconfig descriptions.
+osource "/workspace/zmk/app/module/boards/nicekeyboards/nice_nano/Kconfig.sysbuild"
+osource "/workspace/zmk/app/boards/nicekeyboards/nice_nano/Kconfig.sysbuild"

@@ -1,0 +1,5 @@
+west:
+  command: /usr/local/bin/west build -s zmk/app -b nice_nano -d build/cradio_left
+    -- -DZMK_CONFIG=/workspace/config -DSHIELD=cradio_left
+  topdir: /workspace
+  version: 1.2.0

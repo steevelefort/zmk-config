@@ -1,0 +1,2 @@
+osource "/workspace/zmk/app/module/boards/shields/*/Kconfig.shield"
+osource "/workspace/zmk/app/boards/shields/*/Kconfig.shield"
